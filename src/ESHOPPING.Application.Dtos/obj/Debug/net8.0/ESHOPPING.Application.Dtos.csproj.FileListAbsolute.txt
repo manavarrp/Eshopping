@@ -8,6 +8,7 @@ C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.
 C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.AssemblyInfoInputs.cache
 C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.AssemblyInfo.cs
 C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.sourcelink.json
 C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.csproj.CopyComplete
 C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.dll
 C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\refint\ESHOPPING.Application.Dtos.dll

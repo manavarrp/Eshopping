@@ -5,6 +5,7 @@ C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utiliti
 C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.AssemblyInfoInputs.cache
 C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.AssemblyInfo.cs
 C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.sourcelink.json
 C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.dll
 C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\refint\ESHOPPING.Utilities.dll
 C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.pdb

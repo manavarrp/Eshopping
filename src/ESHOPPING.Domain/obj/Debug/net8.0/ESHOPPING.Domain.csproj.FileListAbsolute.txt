@@ -1,10 +1,12 @@
 C:\Projects\EShopping\src\ESHOPPING.Domain\bin\Debug\net8.0\ESHOPPING.Domain.deps.json
 C:\Projects\EShopping\src\ESHOPPING.Domain\bin\Debug\net8.0\ESHOPPING.Domain.dll
 C:\Projects\EShopping\src\ESHOPPING.Domain\bin\Debug\net8.0\ESHOPPING.Domain.pdb
+C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.csproj.AssemblyReference.cache
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.AssemblyInfoInputs.cache
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.AssemblyInfo.cs
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.sourcelink.json
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.dll
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\refint\ESHOPPING.Domain.dll
 C:\Projects\EShopping\src\ESHOPPING.Domain\obj\Debug\net8.0\ESHOPPING.Domain.pdb
