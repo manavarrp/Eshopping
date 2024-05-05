@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESHOPPING.Application.Dtos\ESHOPPING.Application.Dtos.csproj" />
+    <ProjectReference Include="..\ESHOPPING.Application.Interface\ESHOPPING.Application.Interface.csproj" />
+    <ProjectReference Include="..\ESHOPPING.Domain\ESHOPPING.Domain.csproj" />
+    <ProjectReference Include="..\ESHOPPING.Utilities\ESHOPPING.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

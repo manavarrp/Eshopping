@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ESHOPPING.Application.Dtos/1.0.0": {
+        "dependencies": {
+          "ESHOPPING.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ESHOPPING.Application.Dtos.dll": {}
+        }
+      },
+      "ESHOPPING.Domain/1.0.0": {
+        "runtime": {
+          "ESHOPPING.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESHOPPING.Application.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ESHOPPING.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

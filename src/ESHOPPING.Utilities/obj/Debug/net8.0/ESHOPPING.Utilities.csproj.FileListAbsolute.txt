@@ -1,0 +1,11 @@
+C:\Projects\EShopping\src\ESHOPPING.Utilities\bin\Debug\net8.0\ESHOPPING.Utilities.deps.json
+C:\Projects\EShopping\src\ESHOPPING.Utilities\bin\Debug\net8.0\ESHOPPING.Utilities.dll
+C:\Projects\EShopping\src\ESHOPPING.Utilities\bin\Debug\net8.0\ESHOPPING.Utilities.pdb
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.AssemblyInfoInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.AssemblyInfo.cs
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.dll
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\refint\ESHOPPING.Utilities.dll
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ESHOPPING.Utilities.pdb
+C:\Projects\EShopping\src\ESHOPPING.Utilities\obj\Debug\net8.0\ref\ESHOPPING.Utilities.dll

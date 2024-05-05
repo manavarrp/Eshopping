@@ -1,0 +1,15 @@
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\bin\Debug\net8.0\ESHOPPING.Application.Dtos.deps.json
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\bin\Debug\net8.0\ESHOPPING.Application.Dtos.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\bin\Debug\net8.0\ESHOPPING.Application.Dtos.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\bin\Debug\net8.0\ESHOPPING.Domain.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\bin\Debug\net8.0\ESHOPPING.Domain.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.csproj.AssemblyReference.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.AssemblyInfoInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.AssemblyInfo.cs
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.csproj.CopyComplete
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\refint\ESHOPPING.Application.Dtos.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ESHOPPING.Application.Dtos.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Dtos\obj\Debug\net8.0\ref\ESHOPPING.Application.Dtos.dll

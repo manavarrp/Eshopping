@@ -1,0 +1,17 @@
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Application.Interface.deps.json
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Application.Interface.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Application.Interface.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Application.Dtos.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Domain.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Application.Dtos.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\bin\Debug\net8.0\ESHOPPING.Domain.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.csproj.AssemblyReference.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.AssemblyInfoInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.AssemblyInfo.cs
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.csproj.CopyComplete
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\refint\ESHOPPING.Application.Interface.dll
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ESHOPPING.Application.Interface.pdb
+C:\Projects\EShopping\src\ESHOPPING.Application.Interface\obj\Debug\net8.0\ref\ESHOPPING.Application.Interface.dll
